@@ -37,16 +37,16 @@ Study of For Loop in python.
 8. To repeat steps 4–5 until all rows are completed.
 9. End.
 # Algorithm-4
-1. Start
-2. Define matrix A (3×3)
-3. Define matrix B (3×3)
-4. Initialize result matrix Result with all elements as 0 (3×3 matrix)
-5. Use three nested loops:Outer loop i from 0 to 2 (rows of A), Middle loop j from 0 to 2 (columns of B) andInner loop k from 0 to 2 (for multiplication and addition)
-6. For each position (i, j) in Result:Multiply corresponding elements→ A[i][k] * B[k][j]
-7. Add to Result[i][j] Result[i][j] = Result[i][j] + A[i][k] * B[k][j]
-8. Repeat until all rows and columns are processed
-9. Print each row of the Result matrix
-10. End
+1. Start.
+2. To define matrix A (3×3).
+3. To define matrix B (3×3).
+4. To initialize result matrix(Result) with all elements as 0 (3×3 matrix).
+5. To use three nested for loops:Outer loop i from 0 to 2 (rows of A), Middle loop j from 0 to 2 (columns of B) and inner loop k from 0 to 2 (for multiplication and addition).
+6. For each position (i, j) in Result:Multiply corresponding elements example-A[i][k] * B[k][j].
+7. To add to Result[i][j] Result[i][j] = Result[i][j] + A[i][k] * B[k][j]
+8. Repeat until all rows and columns are completed.
+9. To print each row of the Result matrix.
+10. End.
 # Algorithm-5
 1. Start
 2. Set the range of numbers from 2 to 49 (using range(2, 50))
