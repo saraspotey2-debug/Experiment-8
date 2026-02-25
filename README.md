@@ -55,7 +55,7 @@ Study of For Loop in python.
 (i.e., no break occurred), then num is a prime number.
 5. To print num.
 6. To repeat steps for all numbers in the range.
-7. End
+7. End.
 # Algorithm-6
 1. Start.
 2. To initialize a for loop for variable i from 5 down to 1(using range(5, 0, -1)) using for loop.
