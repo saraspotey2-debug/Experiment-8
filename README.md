@@ -41,7 +41,7 @@ Study of For Loop in python.
 2. To define matrix A (3×3).
 3. To define matrix B (3×3).
 4. To initialize result matrix(Result) with all elements as 0 (3×3 matrix).
-5. To use three nested for loops:Outer loop i from 0 to 2 (rows of A), Middle loop j from 0 to 2 (columns of B) and inner loop k from 0 to 2 (for multiplication and addition).
+5. To use three nested for loops:outer loop i from 0 to 2 (rows of A), middle loop j from 0 to 2 (columns of B) and inner loop k from 0 to 2 (for multiplication and addition).
 6. For each position (i, j) in Result:Multiply corresponding elements example-A[i][k] * B[k][j].
 7. To add to Result[i][j] Result[i][j] = Result[i][j] + A[i][k] * B[k][j]
 8. Repeat until all rows and columns are completed.
