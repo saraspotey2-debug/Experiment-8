@@ -19,7 +19,7 @@ Study of For Loop in python.
 6. End
 # Algorithm-2
 1. Start.
-2. To take Input(n) from the user.
+2. To take input(n) from the user.
 3. To initialize a variable total = 0.
 4. To start a for loop from i = 1 to n (using range(1, n+1)).
 5. For each value of i,it adds i to total using total = total + i.
