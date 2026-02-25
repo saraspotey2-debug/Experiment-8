@@ -57,13 +57,12 @@ Study of For Loop in python.
 6. To repeat steps for all numbers in the range.
 7. End
 # Algorithm-6
-1. Start
-2. Initialize a loop variable i from 5 down to 1(using range(5, 0, -1))
-3. For each value of i, do the following:
-4. Print "*" repeated i times "*" * i
-5. Move to the next value of i (decrease by 1 each time)
-6. Stop when i becomes 0
-7. End
+1. Start.
+2. To initialize a for loop for variable i from 5 down to 1(using range(5, 0, -1)) using for loop.
+3. For each value of i,to print "*" repeated i times using "*" * i.
+5. Move to the next value of i (decrease by 1 each time).
+6. To stop when i becomes 0.
+7. End.
 # Algorithm-7
 1. Start
 2. Initialize variable rows = 5
