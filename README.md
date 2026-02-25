@@ -1,6 +1,6 @@
 # Experiment-8
 # Aim
-Study of for loop in python.
+Study of For Loop in python.
 # Theory
 1. A for loop in Python is a control statement used to repeat a block of code multiple times. It is mainly used when the number of iterations is known or when you want to iterate over a sequence like a list, string, tuple, or range.
 2. A for loop executes a group of statements for each item in a sequence.
