@@ -59,7 +59,7 @@ Study of For Loop in python.
 # Algorithm-6
 1. Start.
 2. To initialize a for loop for variable i from 5 down to 1(using range(5, 0, -1)) using for loop.
-3. For each value of i,to print "*" repeated i times using "*" * i.
+3. For each value of i,to print "*".
 5. Move to the next value of i (decrease by 1 each time).
 6. To stop when i becomes 0.
 7. End.
