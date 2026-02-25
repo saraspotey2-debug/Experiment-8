@@ -30,7 +30,7 @@ Study of For Loop in python.
 1. Start.
 2. To define a 3×3 matrix A with given elements.
 3. To initialize outer loop with i = 0 to 2 (for rows) using for loop.
-4. For each row i,initialize inner loop with j = 0 to 2 (for columns).
+4. For each row i,initialize inner loop with j = 0 to 2 (for columns) using for loop under a for loop.
 5. To print the element at position A[i][j] with a space.
 6. To repeat until all columns of that row are printed.
 7. After finishing each row, to print a new line.
