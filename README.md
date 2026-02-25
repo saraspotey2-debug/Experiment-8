@@ -11,11 +11,11 @@ Study of For Loop in python.
 7. Advantages of for Loop-Easy to use, Less chance of infinite loop, Clean and readable code and Works directly with collections.
 8. Range- The range() function in Python is used to generate a sequence of numbers. It is commonly used in loops like the for loop.
 # Algorithm-1
-1. Start
-2. Initialize a loop variable i to iterate from 1 to 5 using range(1,6)
-3. Repeat the following steps for each value of i:
-4. Print the value of i
-5. Stop when the loop ends (after i = 5)
+1. Start.
+2. To initialize a for loop with variable i to iterate from 1 to 5 using range(1,6).
+3. To repeat the following steps for each value of i.
+4. To print the value of i.
+5. To stop when the loop ends (after i = 5).
 6. End
 # Algorithm-2
 1. Start
