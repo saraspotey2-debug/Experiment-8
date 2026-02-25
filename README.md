@@ -18,15 +18,14 @@ Study of For Loop in python.
 5. To stop when the loop ends (after i = 5).
 6. End
 # Algorithm-2
-1. Start
-2. Input a number n from the user
-3. Initialize a variable total = 0
-4. Start a loop from i = 1 to n (using range(1, n+1))
-5. For each value of i, do:
-6. Add i to total, total = total + i
-7. Repeat step 5 until the loop ends
-8. Display the value of total as the sum
-9. End
+1. Start.
+2. To take Input(n) from the user.
+3. To initialize a variable total = 0.
+4. To start a for loop from i = 1 to n (using range(1, n+1)).
+5. For each value of i,it adds i to total using total = total + i.
+7. To repeat step 5 until the loop ends.
+8. To display the value of total as the sum.
+9. End.
 # Algorithm-3
 1. Start
 2. Define a 3×3 matrix A with given elements
