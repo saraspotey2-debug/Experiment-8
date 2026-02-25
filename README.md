@@ -6,7 +6,7 @@ Study of For Loop in python.
 2. A for loop executes a group of statements for each item in a sequence.
 3. It works as-Python takes the first value from the sequence, assigns it to the loop variable, executes the code inside the loop, moves to the next value and repeats the process until the sequence is finished.
 4. The range() function generates a sequence of numbers.It is commonly used in loops like the for loop.
-5. Important Features of for Loop-used for sequences (list, tuple, string, range, etc.), automatically stops after last element, no need to manually update loop variable and makes code simple and readable.
+5. Important features of for loop-used for sequences (list, tuple, string, range, etc.), automatically stops after last element, no need to manually update loop variable and makes code simple and readable.
 6. For Loop with else-Python allows an else block with a for loop.
 7. Advantages of for Loop-easy to use, less chance of infinite loop, clean and readable code and works directly with collections.
 # Algorithm-1
