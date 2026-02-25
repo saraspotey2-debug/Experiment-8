@@ -48,13 +48,13 @@ Study of For Loop in python.
 9. To print each row of the Result matrix.
 10. End.
 # Algorithm-5
-1. Start
-2. Set the range of numbers from 2 to 49 (using range(2, 50))
-3. For each number num in this range, do the following:Check divisibility of num by all numbers from 2 to num-1
-4. For each value i in range(2, num):If num % i == 0 num is not prime and Exit the inner loop using break,If the inner loop completes without finding any divisor
-(i.e., no break occurred), then:num is a prime number
-5. Print num
-6. Repeat steps for all numbers in the range
+1. Start.
+2. To set the range of numbers from 2 to 49 (using range(2, 50)) using for loop.
+3. For each number num in this range check divisibility of num by all numbers from 2 to num-1 using for loop.
+4. For each value i in range(2, num), if num % i == 0 num is not prime and exit the inner loop using break,if the inner loop completes without finding any divisor
+(i.e., no break occurred), then num is a prime number.
+5. To print num.
+6. To repeat steps for all numbers in the range.
 7. End
 # Algorithm-6
 1. Start
