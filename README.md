@@ -60,16 +60,16 @@ Study of For Loop in python.
 1. Start.
 2. To initialize a for loop for variable i from 5 down to 1(using range(5, 0, -1)) using for loop.
 3. For each value of i,to print "*".
-5. Move to the next value of i (decrease by 1 each time).
-6. To stop when i becomes 0.
-7. End.
+4. Move to the next value of i (decrease by 1 each time).
+5. To stop when i becomes 0.
+6. End.
 # Algorithm-7
-1. Start
-2. Initialize variable rows = 5
-3. Start a loop with i from 1 to rows (using range(1, rows+1))
-4. For each value of i, do:Calculate number of spaces → (rows - i),Calculate number of stars → i.
-5. Print:Spaces " " * (rows - i),Followed by stars "* " * i and then it Move to the next value of i
-6. Stop when i exceeds rows
-7. End
+1. Start.
+2. To initialize variable rows = 5.
+3. To start a for loop with i from 1 to rows (using range(1, rows+1)) using for loop.
+4. For each value of i,it calculates number of spaces → (rows - i),calculates number of stars → i.
+5. To print spaces " " * (rows - i),followed by stars "* " * i and then it moves to the next value of i.
+6. To stop when i exceeds rows.
+7. End.
 # Conclusion
 A for loop in Python is used to iterate over sequences and execute a block of code repeatedly. It is simple, efficient, and widely used for processing data collections.
